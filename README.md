@@ -26,5 +26,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn.confluent.io/wp-content/uploads/kafka-icon-blue.jpg" alt="Java"/></code>
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeMirandaMello&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![iuricode](https://github-readme-stats.vercel.app/api?username=GabrielDeMirandaMello&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
