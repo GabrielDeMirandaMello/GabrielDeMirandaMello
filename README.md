@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Gabriel Mello!</strong>
 
-> Olá, eu tenho 26 anos e sou um apaixonado por desenvolvimento de software, atuamente faço mais a parte de Back-end em Java/Spring Boot, fique a vontade para me contatar e bater-mos um papo sobre desenvolvimento.
+> Olá, eu tenho 26 anos e sou um apaixonado por desenvolvimento de software, atualmente faço mais a parte de Back-end em Java/Spring Boot, fique a vontade para me contatar e bater-mos um papo sobre desenvolvimento.
 
 🔭 Estou trabalhando em um projeto da faculdade chamado CrossGame, o back-end é em Spring Boot e o front-end é em React, conectado ao banco da Azure e usando as maquinas virtuais da AWS para deixar disponivel a todos, se quiser saber mais entre em contato.
 
@@ -26,9 +26,5 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn.confluent.io/wp-content/uploads/kafka-icon-blue.jpg" alt="Java"/></code>
-
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielDeMirandaMello&show_icons=true)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeMirandaMello&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=GabrielDeMirandaMello&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
