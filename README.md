@@ -19,8 +19,16 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" alt="Spring Boot"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="Java"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Java"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Java"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Java"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="Java"/></code>
+<code><img height="32" src="https://cdn.confluent.io/wp-content/uploads/kafka-icon-blue.jpg" alt="Java"/></code>
 
-https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png
+
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielDeMirandaMello&show_icons=true)
