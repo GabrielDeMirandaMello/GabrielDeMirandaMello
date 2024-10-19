@@ -4,7 +4,7 @@
 
 🔭 Estou em busca de empresa na area de Desenvolvimento back end em Spring Boot, Java, entre outras habilidades abaixo.
 
-[![Linkedin](https://img.shields.io/badge/-GabrielMello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-miranda-mello-652346118/)](https://www.linkedin.com/in/gabriel-miranda-mello-652346118/)
+[![Linkedin](https://img.shields.io/badge/-GabrielMello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-miranda-mello-652346118/)](https://www.linkedin.com/in/gabriel-miranda-mello-652346118/)
 [![Gmail Badge](https://img.shields.io/badge/-Gabrielmirandamello9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gabrielmirandamello9@gmail.com)](mailto:Gabrielmirandamello9@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/GabrielDeMirandaMello?label=follow&style=social)](https://github.com/GabrielDeMirandaMello).
 
