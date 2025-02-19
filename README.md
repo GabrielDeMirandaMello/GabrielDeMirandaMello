@@ -18,7 +18,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java"/></code>
+<code><img height="32" src="![image](https://github.com/user-attachments/assets/81b6ad7c-b876-4f34-ab45-3d90e1ea0bb9)" alt="Java"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" alt="Spring Boot"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="aws"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="docker"/></code>
