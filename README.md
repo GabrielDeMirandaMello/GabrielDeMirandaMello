@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Gabriel Mello!</strong>
 
-> Olá, sou um apaixonado por desenvolvimento de software, atualmente faço mais a parte de Back-end em Java/Spring Boot, fique a vontade para me contatar e bater-mos um papo sobre desenvolvimento.
+> Olá, sou um apaixonado por desenvolvimento de software, atualmente possuo um grande conhecimento em Back-end em Java/Spring Boot, mas sigo me aventurando em desenvolvimento front-end em React.js e Tailwind.CSS, fique a vontade para me contatar para bater-mos um papo sobre tecnologia e trocar conhecimentos.
 
-🔭 Estou em busca de empresa na area de Desenvolvimento back end em Spring Boot, Java, entre outras habilidades abaixo.
+🔭 Estou em busca de mais conhecimentos na area de Desenvolvimento back end em Spring Boot, Java, entre outras habilidades abaixo.
 
 [![Linkedin](https://img.shields.io/badge/-GabrielMello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-miranda-mello-652346118/)](https://www.linkedin.com/in/gabriel-de-miranda-mello-652346118/)
 [![Gmail Badge](https://img.shields.io/badge/-Gabrielmirandamello9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gabrielmirandamello9@gmail.com)](mailto:Gabrielmirandamello9@gmail.com)
